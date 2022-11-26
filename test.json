@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzN2IzMWE1ZDk5MGE5NmZjMDAxNmMyNiIsImVtYWlsIjoiY2hldGFuQGdvb2dsZS5jb20iLCJpYXQiOjE2NjkwMTkwMDEsImV4cCI6MTY2OTAyNjIwMX0.Z511vGV6xl2xLhQHTqLMInbutkUJ_1ek_NGUx1bJzOs",
+    "user": {
+        "_id": "637b31a5d990a96fc0016c26",
+        "firstname": "chetan",
+        "lastname": "dighole",
+        "email": "chetan@google.com",
+        "password": "$2a$10$7o1RLuzK/zvNTmttJqBpg.Tc4ieNBfmG40I6ScI2Ha8NQFWjroR5W",
+        "__v": 0,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzN2IzMWE1ZDk5MGE5NmZjMDAxNmMyNiIsImVtYWlsIjoiY2hldGFuQGdvb2dsZS5jb20iLCJpYXQiOjE2NjkwMTkwMDEsImV4cCI6MTY2OTAyNjIwMX0.Z511vGV6xl2xLhQHTqLMInbutkUJ_1ek_NGUx1bJzOs"
+    }
+}
